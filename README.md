@@ -1,31 +1,33 @@
-# VINCENZO654 Website — V1
+# VINCENZO654 Website V2
 
-Official starter website for VINCENZO654, a technology company.
+A more structured and product-oriented VINCENZO654 technology company website.
 
-## Brand
-- Black: #030705
-- Green: #18E45B
-- Yellow: #FFE600
+## Improvements over V1
+- More organized navigation and content hierarchy
+- Six technology product concepts
+- Individual product prices
+- Three pricing tiers
+- Solutions overview
+- Stronger company presentation
+- Responsive mobile layout
+- Interactive product/plan selection feedback
+- Green, yellow and black brand system
 
-## Sections
-- Hero
-- About
-- Technology solutions
-- Software / AI / platforms / automation
-- Technology principles
-- Roadmap
-- Contact CTA
-- Responsive navigation
+## Important
+All products, features and prices in this prototype are fictional demonstration concepts. They are not active commercial offers. Replace them with real product details and final pricing before publishing as a commercial website.
+
+## Demo pricing
+- VincenzoAI — $19.99/month
+- VincenzoWeb — $29.99/month
+- VincenzoSuite — $49.99/month
+- VincenzoDrive — $9.99/month
+- VincenzoShield — $24.99/month
+- VincenzoAnalytics — $34.99/month
 
 ## Files
 - index.html
 - styles.css
 - script.js
-- assets/vincenzo654-logo.jpg
+- assets/logo.jpg
 
-## Status
-Front-end concept / company foundation website.
-
-Before public launch, replace placeholder contact information with the company's real business email and connect any forms/services required.
-
-Version: 1.0.0
+Version: 2.0.0
